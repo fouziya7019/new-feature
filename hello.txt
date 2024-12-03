@@ -1,4 +1,4 @@
-conflict has arised
+conflict has arised 1
 hello this is my second commit,
 
 hello this is my bug fix commit,
