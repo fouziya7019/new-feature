@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 conflict has arised 1
+=======
+conflict has arised1
+>>>>>>> conflict
 hello this is my second commit,
 
 hello this is my bug fix commit,
