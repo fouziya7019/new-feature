@@ -1,2 +1,4 @@
 new feature
-done 2 with this
+HEAD
+done 2 with thisdone1
+
